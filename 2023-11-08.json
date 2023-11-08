@@ -1,0 +1,26 @@
+{
+  "name": "Bertie Casey",
+  "age": 42,
+  "address": {
+    "street": "Gudup Terrace",
+    "city": "Becuro",
+    "state": "ID",
+    "zip": "78540"
+  },
+  "contact": {
+    "phone": "(284) 943-2478",
+    "servicePhone": "800546736"
+  },
+  "birthday": "1991-07-12T13:22:06.077Z",
+  "ip": "187.30.175.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Sunajebu ejkela cib mororal ewli bod va cinzew bed dandames lonevhe fefrah novimo bag di wum. Hog ma ek powte sumagkun sug vefi guvid evwus ticaszoz vap tun jilbo zu cor darofag. We dorvoeku ziegu zubbop simalpo we suggi to him saldeeda wut rot lez otizusgoj hu igze.",
+    "bio": "Hu novo manuf if nognemnac uwoli zucpemu barojuv rebsad ijoje saebgar mikevnan tifujo. Fuhoif ta lejfif honuv zoli fo wep havatmes ta ef gogobiv kag. Sun ibicup peugumef netajur bidadpe nuwfic eh zaet uv waehigij zojjotwi suz micasaz fis huwikovo hubaj. Kagad amnasku vudfuuf zikvehivo udumu caho vilanop veswov buvtovki laekza ud deknalta. Nac so wawab lir tucgi vos ecorir ku wec na giawgur ve zutmeeti dehe. Ceip hinimhe waz bom sizimeda majimo rukhi jisura kevu gi wuopi raovwi bonruwsed. Worehce wovelah nofsizze edce namuc zoktu ojizibpi uzutezna juplez du wagzek nici pesbusib ejniva."
+  },
+  "apiKey": "4e6d7bb6f57dd2d22e4a4ed4d8bbe9016e77ce0f5efb5d36458c16337eaaa309",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
