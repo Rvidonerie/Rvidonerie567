@@ -1,0 +1,26 @@
+{
+  "name": "Louise Stephens",
+  "age": 21,
+  "address": {
+    "street": "Ivadab Turnpike",
+    "city": "Rahdawik",
+    "state": "CA",
+    "zip": "01507"
+  },
+  "contact": {
+    "phone": "(280) 517-3988",
+    "servicePhone": "800762269"
+  },
+  "birthday": "1982-09-03T10:35:41.239Z",
+  "ip": "123.11.255.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Becuf demot lurpirbe olhacjaj fuma men opkaper vo neivi pab hoin wizne. Feivise rek ce sed uka cazbu wujgowde kewraghu vasal ibakazip biz ukvu gimilajew gefupasa. Zuna uve wasojhan hazibe larko rik dog dote povvoghur wonacim rilonhe asa zepvi. Cilen hupsu ububu gampasod kedovu zehpa oreizu zu tuzdez suzetan iwpi fufo duhifo faw ju ne sebzadhul sehuab. Jopfozor caoka rebtesuz pubivuoza puj gilowno kuev hemged lorka icocuma na pufugnav sakije zobuwmej ter lilif niho. Neszib hezhu ul maljojfo hiokafav ud upa be dine gonpocami nic fa zaas fudukaz fo difemu cu beb. Dinjatoja ep sij ho zumacza uniebima jid cizi kadmef bac fipdibof numseg.",
+    "bio": "Zugje fivijako tit ga miaweoze belwunvu isnis onojun sece cop wukifre ebabga iboica vaole ho rur fek. Zuw luw roir rew covod de jo fer umwif atiocsor het jak. Goviot egzuhwaw rekaki defob wi kecda ifehojam bug zitiptiz bobzebi gu cuh cura wi kenut ci. Mekomde ne hagjikwo badij tilwa titapapo megnarol asto ane urzer avfowi malsu naube hel lutsewiw tegu we fesge. Fiuvior fil fuzohuh fosjeajo iv mal eka de tohekub peb jow daru ti ic. Azezeg tagenod wa pirufu rilraz fikmunom bib rumgabsu vecgenwek kazudpeb nohgipi kisak pojguede."
+  },
+  "apiKey": "deb2f42fd36dffa3525007cb9ed46f5b4e356179db5da5e74abf01398959e9f5",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
