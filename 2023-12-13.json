@@ -1,0 +1,26 @@
+{
+  "name": "Rachel Alexander",
+  "age": 65,
+  "address": {
+    "street": "Jufa Pass",
+    "city": "Buradede",
+    "state": "CA",
+    "zip": "77336"
+  },
+  "contact": {
+    "phone": "(420) 867-9728",
+    "servicePhone": "800549135"
+  },
+  "birthday": "1959-06-28T15:29:12.429Z",
+  "ip": "197.240.31.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Na etbetpe wa ramepiha ke koma toj afewjem vukipi siiz ki licbij hatod. Fuh kige nipfikem rap tubale inuru votepzi hehutoruv mi hu up ravnihu delroreco nammo benican od riw me. Ahvivo detva ub wena ipohe aro ofu kogzupwi vegilola wi gofsazam di efim wef zo lakdef likip.",
+    "bio": "Olatafe cobil bimzohul ominel ib piebizug hub battacvis nu etamaw do suduhece labuloto peohogi hiav nuz lago. Nig bewi sadij det ucmuw adlacbed voufuvej cetleva mikano teba mo ape sokmuak veksopo jujvo ufazawcer. Kefkunro robzad iga witbuvo firwedco cop jem zaivte obuhu iwa forazadod johcewe hirgiti lu momacju wadpaif vub zar."
+  },
+  "apiKey": "3c7f31a32cb099b95f57a03bfd30f4c278839192fe08dd152992af76b37b51e7",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
