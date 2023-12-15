@@ -1,0 +1,26 @@
+{
+  "name": "Trevor Sims",
+  "age": 29,
+  "address": {
+    "street": "Fagli Center",
+    "city": "Coleleb",
+    "state": "DC",
+    "zip": "73599"
+  },
+  "contact": {
+    "phone": "(559) 636-3591",
+    "servicePhone": "800487711"
+  },
+  "birthday": "1992-03-20T07:15:59.140Z",
+  "ip": "30.180.250.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Bemicwak pocuniw abacadi rizopaw af eno di urcefu potravde gaegru pocpo su gu cogpopeg rawhan. Nuiwu iktu ah velob ton dieb da ahu eno puvoseg ban tiglum. Bon supte fuwevoago fauhpap amevok ihokepjod nif batumois oz woipa vi ikda ci.",
+    "bio": "Nib zetac dujoh averliz filfo ukeh se rakiru zun wam mav bu evajuc do bij. Utvumpuv fahi emunib ordov esegazevi usa wuunbec kahrih jomuzdah hef istekfu govmos egi jis uvna soru nag. Ene rive giuh giz gafiru zo uknupbow ludoz hi zecsoabi fiwino vagnuwa bulcek ucicu foezro. Igebze fimeri avu ozadu tas udim hevrugad ruwwogse unenuivi giremi pala zade nu vuekzu. Umi hut ekilofraw oruuz velu leta asa luhniic uluozat wibug bareide zamkatmo."
+  },
+  "apiKey": "f55e0f64194503494aef8c138bf8b81738f8c43bd0b3a31f96959dc2b2ebd06b",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
