@@ -1,0 +1,26 @@
+{
+  "name": "Derek Daniels",
+  "age": 26,
+  "address": {
+    "street": "Ubuudi Extension",
+    "city": "Hozilu",
+    "state": "NV",
+    "zip": "19023"
+  },
+  "contact": {
+    "phone": "(776) 344-1207",
+    "servicePhone": "800179832"
+  },
+  "birthday": "1982-04-10T09:05:45.427Z",
+  "ip": "110.25.109.186",
+  "foo": "bar",
+  "profile": {
+    "about": "Din erehe muwecos mo fe picakiw sitsidi bujjo ac gosjafha iwwu keibu eh ama apobiibe bozaeso fod. Bu maoro ta gahna ezlo gineki gobgo vulogule fopupet cece ajepgi ucu zokepe mikolte gan. Kumuhow bevces ebvozfaf ejpel titje ahe wawuzap ze ibpissi luz nowijavu wup hikti lah riv rekal vibla furneece.",
+    "bio": "Fojiop wohjon kondelfo le lobo zuhwimeha ziknec koaf goz godeva zaef nen miwunaru romtejol jekveb wugelisof haasidu. Anihi fowsu hodig ed wipanuw nib gi ikakiw jac gawi lo utujop daw ubiha. Ki ot hobgo wikopkew ziap ok agogun ipezihop pozbe kof si futfecav mosugoj. Weifowu idu gel rajwoudo litu iggunne micahe egke remopiku caubgoc nikumzeb cura he du ucza lael. Bud ihsa wehra igteb malubutuc mekleafi orhedcob putavdaf gowisu jomfas tococe licluaz mec vum nucanbe vubotjal. Ti wuj vu guwpo relokil pevuhel ca bav up wo hufasar etzoh."
+  },
+  "apiKey": "78a0073cdb771ebeb662ef0b437171919158ca4bfd8ee2a24974f273c292298e",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
