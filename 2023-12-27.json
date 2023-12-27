@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Hamilton",
+  "age": 58,
+  "address": {
+    "street": "Dofiwe Center",
+    "city": "Iteforad",
+    "state": "CT",
+    "zip": "85364"
+  },
+  "contact": {
+    "phone": "(489) 304-6449",
+    "servicePhone": "800255165"
+  },
+  "birthday": "1998-08-11T04:44:56.638Z",
+  "ip": "213.197.25.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Hamuzpi rallizoha tawu hefoh zizvauwi uca kuk rackevo ki heb idafasag hun puobge acosavaj cifsirmok jaatkuh. Cizec pekuiv takotufi nagfol zuejlud ri bodo owtid ebiesdes locjacav bencij set jib. Haj pi jepzu aw ave cuhem owurus zi tihuhci hemmufes ovi ecopeupa atase olozi.",
+    "bio": "Su zatpu uvijelu di tebohi fe hijpa pitjusve vow tuvekgu hovopuc lizolocuf borif nig naatiis. Ke ugbirugo gotge kehfi nosunip utroiv hezbiljo sot bumsi ilo ep de kemuvgu vihwo uworasnif. Havnawuv kisatvel uzeaki evkiem zab hewelwa lic akowukos suti jen ihi webaz ah kaat zobisej mejkovit."
+  },
+  "apiKey": "e204fcb3eb808873e6d7f273fd9787a0893828f06db271b707450c644d51c3b3",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
