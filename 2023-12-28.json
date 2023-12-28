@@ -1,0 +1,26 @@
+{
+  "name": "Chris Duncan",
+  "age": 62,
+  "address": {
+    "street": "Zisbi Trail",
+    "city": "Ceavili",
+    "state": "WA",
+    "zip": "96996"
+  },
+  "contact": {
+    "phone": "(475) 606-5642",
+    "servicePhone": "800495345"
+  },
+  "birthday": "1984-11-25T06:39:52.258Z",
+  "ip": "23.52.153.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Hus ap konnikuz lo vo ik fog jepva lenbuni wokibuf opawizi aj dimuh joeseset ezlur. Almiez lafzok derik tacu su soludje gantusfi sa ropac poetka imojalob wo ega zac. Lif ulovurug bo subve coska deh baegrur le kelcok pap vigbug za zejtamti ucamo.",
+    "bio": "Wo tufuchad fipojnuw herahi boldeb gasefa cofzid zulkibma pazbet loju nowutate ro diku azujged job goleovu venod. Pife er godi enenavipa vem wed zeluko kesluhhor be po ijwu cotban givife figmufpiw no fiduhew focujabuh cew. Gabluj islodu opabo fauw hauzuhic ecutim gigujhuj desla pakmathal segat zodzaaje akdobge ves punjof junuteh. Dal fub carizop meviweg sowif borma muhooc pujaj joagavi bem cigbozvo dacipak vom gicfajzob bomuze popobu ik. Godzi cik icsudiz ehmu veplonige jarojzu icwevir tuwsevuge ra jujave nuzik hatcuzum. Abe owuba wewba makda wah to oruakab gorabot usvev gacbujru fosrehnuj lazru ru jatidu zukuwoti."
+  },
+  "apiKey": "0a877aee8b0749bd17c47ad2ee82ba8e79db3db3e99110cb836fe09ab5bd0f44",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
