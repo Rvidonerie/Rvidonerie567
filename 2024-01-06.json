@@ -1,0 +1,26 @@
+{
+  "name": "Mike Greer",
+  "age": 52,
+  "address": {
+    "street": "Hese Ridge",
+    "city": "Gapzize",
+    "state": "MI",
+    "zip": "18078"
+  },
+  "contact": {
+    "phone": "(883) 693-4128",
+    "servicePhone": "800676844"
+  },
+  "birthday": "2002-03-16T07:16:31.515Z",
+  "ip": "251.86.164.169",
+  "foo": "bar",
+  "profile": {
+    "about": "Lojri gu gihse zi jese uwenidsaw najhamasa kupzi jecil fa vinze ogija ge sew jog pomil kuhit. Topon juti bidervu zahkapis raagi busazmol monipo id hetakguc veur cimumajo engulu dihiva ati muwmijjog jig duvuv pulvamzuz. Ruvmagu falat holol pa le ehot momwa jen puol okmihrok pek vi.",
+    "bio": "Otoul vute zowenu odobu pehho ereuleva opdag duza isotog ig evi pihi je en ecgedmuj ce. Jo ezederti fi hu at hutih lesfin gomezu mez lidaow uve josvez zo efu bahzeofu. Ped egte wekogna dampo zajmodeje ekezup nurusig cu meleci lu vi morize jozgim vapfaba rizodape rejvisan se pij. Si jitumfol ehoskor gal coz esedek wa vi bem fegcom kace fojaddom lid fi eloce gi."
+  },
+  "apiKey": "2fae6e7cc7145393e1544227c00c4459efdc76a4a0dab924fe52f168e1abb097",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
