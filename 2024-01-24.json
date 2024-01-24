@@ -1,0 +1,26 @@
+{
+  "name": "Roger Beck",
+  "age": 28,
+  "address": {
+    "street": "Nucpor Plaza",
+    "city": "Fugbimtad",
+    "state": "SC",
+    "zip": "44038"
+  },
+  "contact": {
+    "phone": "(527) 400-6590",
+    "servicePhone": "800895252"
+  },
+  "birthday": "2004-01-02T20:01:27.635Z",
+  "ip": "115.87.241.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Isvan suci orfocreb fidficur zip mucfiwnu den huzo vewok islinnip isiicugur ro olje vesimabek avo. Tivam rudifut niji zu pe lo bobi pikmu om podvaz eri fo omu cokoot uhuwelif wakbuj fobew. Delihe zomiri okomi eh pa nev waiwole wuvirfa nimaowu padrok catzapaj vosejal.",
+    "bio": "Mo mu gupaabu toike jenkizci ni pek sukjizwow co fabjapi cel pudot teephu. Jubpe keh utafahbih ted vetne ovtesug lu ogera ku ogeke bi ewi zivop. Wef itegazpe fohagno haha sihwe puagoiga kur evceif ro jopbuut kacrog kemlowas soc tur nobza woacive."
+  },
+  "apiKey": "2b17a94c3d50e9c8e1a337430d6dab6d5d761be685bf60d74009a481cef0f3dc",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
