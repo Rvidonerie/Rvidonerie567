@@ -1,0 +1,26 @@
+{
+  "name": "Angel Ward",
+  "age": 19,
+  "address": {
+    "street": "Wikde Center",
+    "city": "Jithafun",
+    "state": "NM",
+    "zip": "95375"
+  },
+  "contact": {
+    "phone": "(254) 358-2293",
+    "servicePhone": "800141665"
+  },
+  "birthday": "2000-05-06T08:12:35.802Z",
+  "ip": "15.7.130.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Birbibu ge dauwoak kogepozi zesere eznuvu vutij fiwoda owu gamo orebos az toh utavuiw. Hudaj vojibtiz ruw loddulod nebu omoakeri udvonab sahucoj zefulcan muhagcan okpu cagovte ji. Oca og lenushes curvo cu moud fes gumoh zuka kew voj upinevhed la ho. Utoha imitgo soznobnu ko pi holic icaascu zu hichozo anu kepte cemeztoc. Iw gam vuro howlenwa kumejmel ruwa gal bak ti nedusru giw kabvotob kom ir wizajmi mele. Kapel hohet tonnu cap mibutelo no pinav ez efeca ikhicida is izu bo ofnu ewonol.",
+    "bio": "Gerne ge fil cuf wip awi hesa was iroodimoj hewmu coje bu witib saf puune. Amhil fecadib uko kabdoalu iz okoipsak tifzumkab fe ojalrid te si apwi wak ambu jakicuh. Fi op ukecihbo lontanu mak gu nupjiiv sajdoslol tuzda tidwiv fuwafulo fot newsivi pahuj do doem emi mid. Lutawvam tal endiztoz ma okoso secceli kiigha mim ha mi voffilub lariki."
+  },
+  "apiKey": "8e72cb40daf7856ee7914d3003a90955b8778af4fca0cdeb388d46efb351fb3b",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
