@@ -1,0 +1,26 @@
+{
+  "name": "Mason Lopez",
+  "age": 30,
+  "address": {
+    "street": "Apadot Street",
+    "city": "Imoefepo",
+    "state": "VA",
+    "zip": "61937"
+  },
+  "contact": {
+    "phone": "(781) 599-5871",
+    "servicePhone": "800831181"
+  },
+  "birthday": "1979-02-05T12:57:59.151Z",
+  "ip": "13.158.113.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Favihac huliwhad hu pamil wonruto olsu wo urada izifegad zeta uj pu miimu. Zidojfuf onipip gil viopme bako pavnerci aja duvmezut ji pajdiigi dubgumsud ne tagkutal nu vi. Heb itdojar ja lowtano zaromotep aviofnit dutermis heh dujut ocmeli ifi nirdib maguzuel eja.",
+    "bio": "Bug pale cap pohocbu nadvekuw kumi tumiwa wasogo enernap mo fur ve vihezal. Abcog dacepov di du jup ivlol no rap vekrahu cegla feafure guvrup silenib tekejjop hep. Hisitoji wirizcef bar epe uzozo wuoc ku ka vi geptimag jowlif ra zoigeli. Wuto oce hej fofguc uhanas petenojo pecti afkam bemoej nuivu igainalu ecniffo uh gagul egu zefabuza eh."
+  },
+  "apiKey": "da57cd8a859e5ff970e30df53e3bc189c5f2d7b8cdedfa952b37c00d31fd1e5f",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
