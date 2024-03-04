@@ -1,0 +1,26 @@
+{
+  "name": "Benjamin Fernandez",
+  "age": 28,
+  "address": {
+    "street": "Ciri Plaza",
+    "city": "Irimodus",
+    "state": "IN",
+    "zip": "80979"
+  },
+  "contact": {
+    "phone": "(408) 737-3094",
+    "servicePhone": "800955339"
+  },
+  "birthday": "1979-12-27T19:06:52.330Z",
+  "ip": "153.125.116.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Lasu dag nujama ladbible saegilot juhgum furziri kabfudcas ul adu sotjos zuwahiv vajna. Rino suku bewajdav cidapbo ocezehuw uwve ano kafrokre tutuz li suddunoji ha. Dochu so gi des kiz kohepaf loafawic wej resrujoc veedeha vadede dukwavot ibuaja. Moruceg huzdez likidjap gozozumo la nir biuc iclomjub keh ba ceef diwveda juleh wibsiuw rudu oji juese. Lu mepe ti ip de hedepak puev nulguc hokiwdo pem ummut suziled cohtaw jueto telok peeso juj tafnede. Guvjeew zodehcip izatu fek vomweeba vor tus gauzamah pusotne tuj ceaha zapulwus muzo lehopmih ohmi dofij kuvovbic. Hohbuhece masad pucuficu tu fel ocezek owru vobgil ma pobi bu gafeg podidwil orhorpov.",
+    "bio": "Ic tegluz rituc selmifzap ligneca ge solgomuhu ta fe hidozpub jihroali teidu. Lepcaene nugaroha bafikmu titmes tahboj vefhi sawnu tagepus utu awrale pukwev gelzidhuz. Rucicago amuma ij umuabu sejodaf del suta upejup neno ho wijoho hat gurini jep rikok hewej."
+  },
+  "apiKey": "6cb235c74fe0de5041ccc428bf4aa3bf8a02728c29867b7f625a6de92622af32",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
