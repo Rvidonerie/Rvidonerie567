@@ -1,0 +1,26 @@
+{
+  "name": "Mable Nash",
+  "age": 20,
+  "address": {
+    "street": "Kuran Road",
+    "city": "Zefego",
+    "state": "NH",
+    "zip": "42563"
+  },
+  "contact": {
+    "phone": "(416) 738-3060",
+    "servicePhone": "800665566"
+  },
+  "birthday": "1973-03-28T10:02:36.471Z",
+  "ip": "242.224.92.146",
+  "foo": "bar",
+  "profile": {
+    "about": "Eraaku sizapowos telucse vujboke beov egenop uspoj viswo ej uwudipobu vonku ine. Fikor keva lu kahnav cewaale ikihebe or ifojir he cupeh gopag uz durudi. Duorube vupbolne fehnobe laju ginaj mupowboj ej fas buif cibava lipad ca le kitahi pa. Lipeh og banteib rigwusso ahuvivko gar molmoklo adeiwi eggobiz vam gin so jisaipa korivfow ig.",
+    "bio": "Arkuk ijbol jedsubwap du supohu pilgahip rif namijaf zog nekebfo irirucdic hibo guggu. Merlibhaf wosev regim cabejmum lelvadov vedjuso bu bupour wasu mimadro hup javzi naazanep jah jakrof mel. Denegioki gicoje digabo civsugju jes aluzihi bumime ob puwo vineda oratugot ka ubeat weko ivbezbul ubo tuohrat."
+  },
+  "apiKey": "3e180c9bf96e8ee463b7942e3e9e55ce8d0c5b41a964bd36352b107a1bd0b52d",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
