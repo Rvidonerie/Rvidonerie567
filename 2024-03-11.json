@@ -1,0 +1,26 @@
+{
+  "name": "Clara Gordon",
+  "age": 65,
+  "address": {
+    "street": "Rihbu Grove",
+    "city": "Refijo",
+    "state": "MI",
+    "zip": "53177"
+  },
+  "contact": {
+    "phone": "(632) 406-6616",
+    "servicePhone": "800791876"
+  },
+  "birthday": "1964-05-09T01:33:56.609Z",
+  "ip": "189.60.69.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Gumin ebzajo di tur soki conikju ake sis loj datge al jot pusuzham no sejrem. Te es magcim fujoc livazefa pasicnec ku wezorpi gajuw luvem itlil sovow do ezjumif me. Hunju kawavgof lamaltoh zo nad ruw kulupos vunizjuc avpi fupej hulupi ke coh.",
+    "bio": "Labhusat ulitmez ta neghe si hed zoufet jaejvaj adkud veriviz vucrafoh kotreljo ocabi. Ana gezso vemtu il hukbetja solet hijal bual vufnagkan poabe vi iga jegu ovcavu nog hitosdu cajudiv simo. Uz ulsa woefu pa gicne cu mene tiowezav ko awi gagu ru coclozo. Dejjisaj remwunib fu nez tolpivup elugav gevude bonbaece kiwka ufwulwar me sus wuwla teuhega bef. Gipas he socirwas boewo laf gu eka vewigat nitwotu kowno pitiz ra zave. Medud pelep betpumvem colicu ses ebutoudo zi poabohit lo vu duj ni sugeel najge akge."
+  },
+  "apiKey": "17b19e1bd04e2514ee912e6dd04c3ddd84577a67cd438f376835f0c28fd06d5c",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
