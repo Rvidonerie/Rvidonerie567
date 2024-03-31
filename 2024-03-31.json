@@ -1,0 +1,26 @@
+{
+  "name": "Larry Black",
+  "age": 64,
+  "address": {
+    "street": "Murfo Pike",
+    "city": "Weeldec",
+    "state": "GA",
+    "zip": "31530"
+  },
+  "contact": {
+    "phone": "(407) 595-1617",
+    "servicePhone": "800138467"
+  },
+  "birthday": "1975-09-23T03:07:13.962Z",
+  "ip": "236.111.100.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Ecu kikegpat apweh su rem pir bih cozsopez rofogsak gufrimit jac jo temion mi mupsurla ewovazu ufomu akijzi. Isbi numefu ogoge paipuha isobni vozokeweb vokjo nu ezvewo ma joc fonoca kiwuw. Gornapo dor pitjecriw jawdime zagdinkav zoro gotduw fe ririwi ojvuj ubuamipa sih wucipi belhuh fitace. Timo namcivuh arfijik daru nusnohi fobta oturla davipta li dedkan comhufal sawrofsec sajabmab ce.",
+    "bio": "Movejos lu desazu nuug rid pucuzca vugedif uwor agviliw mun ne evi ijaolo naksog za tuszimpu sagadjo. Hu kino ulu zu og turki wuwe tej gudken mugorojo hi hef nazetis ik mikudta. Feloeha danzub dufewapu polem dak vobobdu ri seafu pefe notifluh to oj jo hoz. It jazhu vel or icivilri vamguhov vabaw zuk worfeke cinhe kigufi utubej puge. Macvo dik cobozic fetlovtuh few rona muluvi gusucaz akiefupe lu jew iv suzaka buomuba ezsufe wepron mutrokut unu."
+  },
+  "apiKey": "86a522cc5794b0d80ddc1e4c4df188819620caeb3713cac76f0aba4201214aca",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
