@@ -1,0 +1,26 @@
+{
+  "name": "Dollie Day",
+  "age": 25,
+  "address": {
+    "street": "Vunuja Circle",
+    "city": "Aglorus",
+    "state": "CO",
+    "zip": "34783"
+  },
+  "contact": {
+    "phone": "(414) 468-1745",
+    "servicePhone": "800314642"
+  },
+  "birthday": "1975-05-02T21:10:13.145Z",
+  "ip": "39.227.170.158",
+  "foo": "bar",
+  "profile": {
+    "about": "Maz kavikzo fo zamesola dabis ne betgo kufjig buspedah guwusco jepevico apezoseh al sutcakko fal gazfe. Hip zegefa caj odu asbi suzmipi muvwemho sujejco nulacji wiaj dojesti gopa nuvri. Fic dezotse fad le me tesfev ta hejvifi cibuvva wawo nul miz locruh puve. Fofzalob fohpioza fo icoren uwpiaj muhpurko wecgo noudopi okni ur zuhhe motacef radu nacikzu. Tudova nujmazhiv joh usilekac hud zaf povec wu lugna daran epoworte ku temo. Buomu cu ham paic ariri fik ji emo rudnava son mi izo gikpif ra cemin. Sa ugrisaz cowho ku cucpu suw inhacge apetice lo waf gori ku huewog mo ed uhaejfug cil itket.",
+    "bio": "Betnesdug jaihulol robedi fusuhi luzlofuma us giupmer cowfebve bujmubak gu evopite ala wiil cib keasoza if. Laugoev jole ub bopeljon seje tec ulurif bo cum dalicinup da lokwa be. Uto migofo jivfan mehaszij obo jeco rojerto vajus le ike bemrep sonivtis nec rovridi demdof numudo. Cenimla zigiev fovomse vuzed jukerzeb wad palpu dolof come je po sopjaj de agi sudip litat. Vuf tatfora buc we vez jivtoup tipzat ju vo subpa zu debdimgi tic wa duwe zafguvfip. Oc ar mo diegefa hojuidi anaevi jir tis fugno fesuh dupled to ketircol wulwomsa."
+  },
+  "apiKey": "eb977411574e763529e2641d971ad6e40b9920ee85dca498cabb6eae4b6f99d7",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
