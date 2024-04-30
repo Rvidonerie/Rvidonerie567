@@ -1,0 +1,26 @@
+{
+  "name": "Derrick Estrada",
+  "age": 30,
+  "address": {
+    "street": "Tucde Highway",
+    "city": "Volnifa",
+    "state": "MA",
+    "zip": "55462"
+  },
+  "contact": {
+    "phone": "(759) 855-2341",
+    "servicePhone": "800648631"
+  },
+  "birthday": "1989-08-15T21:17:53.371Z",
+  "ip": "181.134.146.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Wan de ewepo mi livnol imsu wad daehu ujsa ulo nijabu ebe govuc ruv ejkuvlon. Gaozape ciebazap togjar bat bi ucuop ukkip ukouri cez vo upo zup. Kelfajja orakuh ojerid detto dinevo jigi ka alapal pakam akodofon daz topokvaf ukiceega ceiba wa lepge ji ap. Sece gukuute hugaw vibhuwah zeutno vus tacel elmahji mo itobu si owtuur votpoece ceniwo upeid oftolim tige rob.",
+    "bio": "Vih mig fofif ces re va guheducoh kutwap okurekzib jot udzop ra. Voldelu wulcu wu gu valuzvo talnihhur pi tahuzo sagwahum fujwofep annu bigi tuwuwuk wek buvi kefbuk. Ipmenah zefi giz nawefu vu kav mukvanme ibipapa citto vej gisvodwi ac alkos me ne vizguw zepircic."
+  },
+  "apiKey": "0693bfccb029eb067da39e55be9534be2be0b1e9ce9565300b55c9c29a9f2c24",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
